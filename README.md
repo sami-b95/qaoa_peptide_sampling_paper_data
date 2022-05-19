@@ -1,6 +1,6 @@
 This is the data repository for the paper [arXiv:2204.01821](https://arxiv.org/abs/2204.01821).
 
-We provide 3 notebooks reproducing the figures of the paper. These rely on heavier data available [there](.https://zenodo.org/record/6563433/files/data.tar.xz?download=1). To use the notebooks, download this archive and uncompress to the root of the repository.
+We provide 3 notebooks reproducing the figures of the paper. These rely on heavier data available [there](https://zenodo.org/record/6563433/files/data.tar.xz?download=1). To use the notebooks, download this archive and uncompress to the root of the repository.
 
 Execution of the notebooks requires libraries `Pandas` and `RDKit` (the latter, only for [`small_peptide_sampling_probability_distribution_analysis.ipynb`](./`small_peptide_sampling_probability_distribution_analysis.ipynb`)).
 
